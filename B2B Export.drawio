@@ -146,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kRa8trD-v3fmMsIPlbA_" name="Retail">
-    <mxGraphModel dx="1462" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,35 +180,41 @@
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-6" value="Release Resep Trial, SOP, Spesifikasi Produk" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1081" y="160" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="PY8R-ZKz-KD9S2yWT6X2-7" value="Harga Jual" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1415" y="98" width="136" height="54" as="geometry" />
+        <mxCell id="PY8R-ZKz-KD9S2yWT6X2-7" value="Harga Jual" style="shape=parallelogram;whiteSpace=wrap;strokeWidth=1;;perimeter=parallelogramPerimeter;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="1150" width="136" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-8" value="Revisi Resep, SOP, Spesifikasi Produk" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="3437" y="218" width="260" height="78" as="geometry" />
+          <mxGeometry x="2450" y="466" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="2B4umqTqCLnp9eJ6xt5X-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PY8R-ZKz-KD9S2yWT6X2-9" target="PY8R-ZKz-KD9S2yWT6X2-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-9" value="Perhitungan Harga" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1601" y="98" width="192" height="54" as="geometry" />
+          <mxGeometry x="550" y="1043" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-10" value="Planning Trial Produksi" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1843" y="98" width="221" height="54" as="geometry" />
+          <mxGeometry x="1558" y="390" width="221" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-11" value="Trial Produksi" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2114" y="98" width="156" height="54" as="geometry" />
+          <mxGeometry x="1829" y="390" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="2B4umqTqCLnp9eJ6xt5X-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PY8R-ZKz-KD9S2yWT6X2-12" target="PY8R-ZKz-KD9S2yWT6X2-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-12" value="Simulasi Packing" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="98" width="177" height="54" as="geometry" />
+          <mxGeometry x="760" y="1150" width="137" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-13" value="Finish Product" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2617" y="98" width="161" height="54" as="geometry" />
+          <mxGeometry x="1667" y="732" width="161" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-14" value="Pengecekan R&amp;D" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2828" y="98" width="180" height="54" as="geometry" />
+          <mxGeometry x="1878" y="732" width="180" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-15" value="Analisa Organoleptik, Kimia, Mikrobiologi" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="3057" y="86" width="260" height="78" as="geometry" />
+          <mxGeometry x="2107" y="720" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-16" value="Produksi" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="3507" y="77" width="120" height="54" as="geometry" />
+          <mxGeometry x="2520" y="325" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="2B4umqTqCLnp9eJ6xt5X-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PY8R-ZKz-KD9S2yWT6X2-17" target="2B4umqTqCLnp9eJ6xt5X-5">
           <mxGeometry relative="1" as="geometry" />
@@ -225,14 +231,17 @@
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-18" value="Submit Ingredient List dan Dokumen Pendukung" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="690" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2B4umqTqCLnp9eJ6xt5X-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PY8R-ZKz-KD9S2yWT6X2-19" target="PY8R-ZKz-KD9S2yWT6X2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-19" value="Submit HPP" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="4384" y="77" width="143" height="54" as="geometry" />
+          <mxGeometry x="370" y="1046" width="121" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-22" value="Analisa SH Internal" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="5112" y="77" width="195" height="54" as="geometry" />
+          <mxGeometry x="1010" y="560" width="195" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-23" value="Analisa SH Mikrobiologi" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="5357" y="77" width="225" height="54" as="geometry" />
+          <mxGeometry x="1255" y="560" width="225" height="54" as="geometry" />
         </mxCell>
         <mxCell id="2B4umqTqCLnp9eJ6xt5X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PY8R-ZKz-KD9S2yWT6X2-24" target="PY8R-ZKz-KD9S2yWT6X2-25">
           <mxGeometry relative="1" as="geometry" />
@@ -246,7 +255,7 @@
         <mxCell id="PY8R-ZKz-KD9S2yWT6X2-25" value="Foto Produk dan Desain Packaging" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="925" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z4BoJ_7eN54kK6_HwAQs-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;B2B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Z4BoJ_7eN54kK6_HwAQs-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Retail&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry y="-80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2B4umqTqCLnp9eJ6xt5X-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PY8R-ZKz-KD9S2yWT6X2-5" target="PY8R-ZKz-KD9S2yWT6X2-3">
@@ -297,7 +306,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2B4umqTqCLnp9eJ6xt5X-16" value="Pengajuan Halal" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="699" width="170" height="60" as="geometry" />
+          <mxGeometry x="790" y="700" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2B4umqTqCLnp9eJ6xt5X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2B4umqTqCLnp9eJ6xt5X-17" target="2B4umqTqCLnp9eJ6xt5X-19">
           <mxGeometry relative="1" as="geometry" />
@@ -306,7 +315,7 @@
           <mxGeometry x="340" y="820" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2B4umqTqCLnp9eJ6xt5X-19" value="Pengajuan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="829" width="110" height="60" as="geometry" />
+          <mxGeometry x="820" y="830" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
