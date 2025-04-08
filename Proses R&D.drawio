@@ -16,12 +16,6 @@
         <mxCell id="6dXVv3c4vtzoXwTVIitz-66" value="Sampel Produk, Ingredient List, Spesifikasi" style="shape=parallelogram;whiteSpace=wrap;strokeWidth=1;;perimeter=parallelogramPerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="340" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7P-PuD_ggh4ez_p3lZlP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="6dXVv3c4vtzoXwTVIitz-67" target="6dXVv3c4vtzoXwTVIitz-72" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6dXVv3c4vtzoXwTVIitz-67" value="HPP" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="462" width="80" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="6dXVv3c4vtzoXwTVIitz-68" value="Customer Approval" style="rhombus;whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="95.5" y="320" width="129" height="120" as="geometry" />
         </mxCell>
@@ -37,15 +31,6 @@
         <mxCell id="6dXVv3c4vtzoXwTVIitz-70" value="Revisi Resep, SOP, Spesifikasi Produk" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="820" width="140" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="6dXVv3c4vtzoXwTVIitz-71" value="Harga Jual" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="559" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7P-PuD_ggh4ez_p3lZlP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" source="6dXVv3c4vtzoXwTVIitz-72" target="6dXVv3c4vtzoXwTVIitz-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6dXVv3c4vtzoXwTVIitz-72" value="Perhitungan Harga" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="462" width="120" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="7P-PuD_ggh4ez_p3lZlP-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6dXVv3c4vtzoXwTVIitz-73" target="6dXVv3c4vtzoXwTVIitz-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -57,12 +42,6 @@
         </mxCell>
         <mxCell id="6dXVv3c4vtzoXwTVIitz-74" value="Trial Produksi" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="462" width="130" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="7P-PuD_ggh4ez_p3lZlP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="6dXVv3c4vtzoXwTVIitz-75" target="6dXVv3c4vtzoXwTVIitz-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6dXVv3c4vtzoXwTVIitz-75" value="Simulasi Packing" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="559" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7P-PuD_ggh4ez_p3lZlP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6dXVv3c4vtzoXwTVIitz-76" target="6dXVv3c4vtzoXwTVIitz-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
