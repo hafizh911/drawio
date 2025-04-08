@@ -288,7 +288,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2B4umqTqCLnp9eJ6xt5X-16" value="Pengajuan Halal" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="636" y="699" width="170" height="60" as="geometry" />
+          <mxGeometry x="600" y="699" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2B4umqTqCLnp9eJ6xt5X-17" value="Pengajuan Perbanyakan Sampel untuk Analisa BPOM" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="636" y="850" width="260" height="78" as="geometry" />
