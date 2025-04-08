@@ -372,24 +372,26 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TSSmkDrg0120R5e7NNq-" name="Pengadaan Formula">
-    <mxGraphModel dx="1346" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z9CND6TuXU0VorKSIdKT-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="280" width="380" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="z9CND6TuXU0VorKSIdKT-4" value="Pengebonan Bahan Baku" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="179" width="100" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="X_7heQAOQwNQK7jmX3UY-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="z9CND6TuXU0VorKSIdKT-5" target="z9CND6TuXU0VorKSIdKT-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X_7heQAOQwNQK7jmX3UY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="z9CND6TuXU0VorKSIdKT-5" target="z9CND6TuXU0VorKSIdKT-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="206" />
+              <mxPoint x="660" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="z9CND6TuXU0VorKSIdKT-5" value="Pengiriman Bahan Sesuai Bon" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="167" width="110" height="78" as="geometry" />
         </mxCell>
         <mxCell id="z9CND6TuXU0VorKSIdKT-6" value="Pengiriman Formula ke Produksi" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="576" width="150" height="78" as="geometry" />
+          <mxGeometry x="540" y="576" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="z9CND6TuXU0VorKSIdKT-9" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" parent="1" source="z9CND6TuXU0VorKSIdKT-13" target="z9CND6TuXU0VorKSIdKT-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -409,30 +411,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z9CND6TuXU0VorKSIdKT-14" value="Formula" style="shape=tape;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="330" y="420" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="X_7heQAOQwNQK7jmX3UY-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="z9CND6TuXU0VorKSIdKT-16" target="X_7heQAOQwNQK7jmX3UY-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z9CND6TuXU0VorKSIdKT-16" value="Bon, TImbang, Dokumentasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="485" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z9CND6TuXU0VorKSIdKT-18" value="Preproses R&amp;amp;D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="280" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="X_7heQAOQwNQK7jmX3UY-1" value="Pre Proses&lt;br&gt;(Mixing)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="322.5" y="420" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="X_7heQAOQwNQK7jmX3UY-5" value="Analisa Fisik, Kimia, Organoleptik" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="560" width="150" height="110" as="geometry" />
+          <mxGeometry x="307.5" y="560" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="X_7heQAOQwNQK7jmX3UY-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="X_7heQAOQwNQK7jmX3UY-5" target="X_7heQAOQwNQK7jmX3UY-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="430" as="sourcePoint" />
             <mxPoint x="470" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="615" />
-              <mxPoint x="290" y="340" />
+              <mxPoint x="270" y="615" />
+              <mxPoint x="270" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -452,6 +442,18 @@
         </mxCell>
         <mxCell id="X_7heQAOQwNQK7jmX3UY-12" value="OK" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="X_7heQAOQwNQK7jmX3UY-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_7heQAOQwNQK7jmX3UY-14" value="Preproses R&amp;amp;D" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="X_7heQAOQwNQK7jmX3UY-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="X_7heQAOQwNQK7jmX3UY-14" source="z9CND6TuXU0VorKSIdKT-16" target="X_7heQAOQwNQK7jmX3UY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9CND6TuXU0VorKSIdKT-16" value="Bon, TImbang, Dokumentasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="X_7heQAOQwNQK7jmX3UY-14" vertex="1">
+          <mxGeometry x="177.5" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X_7heQAOQwNQK7jmX3UY-1" value="Pre Proses&lt;br&gt;(Mixing)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="X_7heQAOQwNQK7jmX3UY-14">
+          <mxGeometry x="22.5" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
