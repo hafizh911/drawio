@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="B2B" id="JEkLsybQMh7TkXwGEb7z">
-    <mxGraphModel dx="1356" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1356" dy="2022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,6 +124,9 @@
         <mxCell id="TRk_BBOaTZ7uG1GUnGQx-1" value="Manajemen Demand" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="64.5" y="150" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="22Ek3IktAt-tEacaqxxI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRk_BBOaTZ7uG1GUnGQx-3" target="22Ek3IktAt-tEacaqxxI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TRk_BBOaTZ7uG1GUnGQx-3" value="Panel Test" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="601" y="40" width="169" height="200" as="geometry" />
         </mxCell>
@@ -134,10 +137,10 @@
           <mxGeometry x="39" y="40" width="91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="801" y="77.5" width="125" height="125" as="geometry" />
+          <mxGeometry x="1200" y="462" width="125" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="22Ek3IktAt-tEacaqxxI-8" value="Perisapan Release" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="100" width="435" height="300" as="geometry" />
+        <mxCell id="22Ek3IktAt-tEacaqxxI-8" value="Persiapan Release" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-10" width="435" height="300" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-9" value="&lt;ul&gt;&lt;li&gt;Sertifikasi&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="22Ek3IktAt-tEacaqxxI-8">
           <mxGeometry x="10" y="27" width="60" height="30" as="geometry" />
