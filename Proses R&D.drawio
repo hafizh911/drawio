@@ -195,7 +195,7 @@
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-40" value="OK" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="22Ek3IktAt-tEacaqxxI-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="-20" as="offset" />
+            <mxPoint y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="22Ek3IktAt-tEacaqxxI-34" target="22Ek3IktAt-tEacaqxxI-8">
@@ -205,7 +205,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-45" value="OK" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="22Ek3IktAt-tEacaqxxI-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="72" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
