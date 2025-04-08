@@ -88,9 +88,6 @@
         <mxCell id="TRk_BBOaTZ7uG1GUnGQx-1" value="Manajemen Demand" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="64.5" y="150" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="22Ek3IktAt-tEacaqxxI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRk_BBOaTZ7uG1GUnGQx-3" target="22Ek3IktAt-tEacaqxxI-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TRk_BBOaTZ7uG1GUnGQx-3" value="Panel Test" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415.5" y="280" width="169" height="200" as="geometry" />
         </mxCell>
@@ -149,7 +146,7 @@
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-45" value="OK" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="22Ek3IktAt-tEacaqxxI-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="72" as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-46" value="Customer Approval Lokal / Eksport" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
