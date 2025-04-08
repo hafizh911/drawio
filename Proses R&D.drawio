@@ -85,6 +85,9 @@
         <mxCell id="7P-PuD_ggh4ez_p3lZlP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="7P-PuD_ggh4ez_p3lZlP-11" target="6dXVv3c4vtzoXwTVIitz-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="22Ek3IktAt-tEacaqxxI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P-PuD_ggh4ez_p3lZlP-11" target="TRk_BBOaTZ7uG1GUnGQx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7P-PuD_ggh4ez_p3lZlP-11" value="Eksperimen" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="120" height="200" as="geometry" />
         </mxCell>
@@ -136,19 +139,19 @@
         <mxCell id="7P-PuD_ggh4ez_p3lZlP-43" value="OK" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="7P-PuD_ggh4ez_p3lZlP-42" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRk_BBOaTZ7uG1GUnGQx-1" target="7P-PuD_ggh4ez_p3lZlP-11">
+        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="TRk_BBOaTZ7uG1GUnGQx-1" target="7P-PuD_ggh4ez_p3lZlP-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-1" value="Manajemen Demand" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-1" value="Manajemen Demand" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="64.5" y="150" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-3" value="Panel Test" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-3" value="Panel Test" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="601" y="40" width="169" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-4" value="Kantor / Marketing / Manajemen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TRk_BBOaTZ7uG1GUnGQx-3">
+        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-4" value="Kantor / Marketing / Manajemen" style="rounded=0;whiteSpace=wrap;html=1;" parent="TRk_BBOaTZ7uG1GUnGQx-3" vertex="1">
           <mxGeometry x="39" y="100" width="91" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-5" value="R&amp;amp;D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TRk_BBOaTZ7uG1GUnGQx-3">
+        <mxCell id="TRk_BBOaTZ7uG1GUnGQx-5" value="R&amp;amp;D" style="rounded=0;whiteSpace=wrap;html=1;" parent="TRk_BBOaTZ7uG1GUnGQx-3" vertex="1">
           <mxGeometry x="39" y="40" width="91" height="40" as="geometry" />
         </mxCell>
       </root>
