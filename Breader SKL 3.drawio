@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
+  <diagram name="Page-1" id="cf-V2gqi7i_fhJFO8fwm">
+    <mxGraphModel dx="1808" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-188" value="Marketing Export" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="945" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-189" value="PPIC" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="252" y="997" width="92" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-190" value="Pangan Lestari" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1008" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-191" value="Purchasing" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1066" width="137" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-192" value="Supplier Raw Material" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="601" y="937" width="217" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-193" value="Supplier Packaging Material" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="581" y="1101" width="257" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-194" value="QC" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="888" y="1066" width="80" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-195" value="Gudang RM PM" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="920" width="164" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-196" value="Produksi" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="858" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-197" value="RND" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1619" y="750" width="89" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-198" value="Tepung, Garam, Miwon" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1551" y="854" width="224" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-199" value="Bahan Lain" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1594" y="958" width="138" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-200" value="Formula" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1604" y="1062" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-201" value="Pengayakan" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1825" y="854" width="144" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-202" value="Penimbangan" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2019" y="854" width="155" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-203" value="Supermixer" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1827" y="1010" width="141" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-204" value="Mixing" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2224" y="931" width="105" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-205" value="QC" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="896" width="80" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-206" value="Filling" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2381" y="906" width="104" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-207" value="Packing" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2656" y="931" width="114" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-208" value="Gudang Finish Good" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="1076" width="202" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oBX4iHXAOmjOvNSdd5BE-209" value="Delivery" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3071" y="1076" width="119" height="54" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
