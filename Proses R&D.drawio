@@ -114,7 +114,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="22Ek3IktAt-tEacaqxxI-46" value="Customer Approval&lt;div&gt;Eksport/Lokal&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="22Ek3IktAt-tEacaqxxI-46" value="Customer&lt;div&gt;Approval&lt;div&gt;Eksport/Lokal&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1020" y="27.5" width="131" height="125" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="22Ek3IktAt-tEacaqxxI-49" target="22Ek3IktAt-tEacaqxxI-51">
