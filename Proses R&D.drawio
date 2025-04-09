@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="B2B" id="JEkLsybQMh7TkXwGEb7z">
-    <mxGraphModel dx="1808" dy="2329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1162" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +208,7 @@
           <mxGeometry x="5" y="40" width="600" height="600" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-85" value="" style="group" vertex="1" connectable="0" parent="22Ek3IktAt-tEacaqxxI-88">
-          <mxGeometry x="90" y="280" width="195" height="120" as="geometry" />
+          <mxGeometry x="110" y="280" width="195" height="120" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-84" value="QC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="22Ek3IktAt-tEacaqxxI-85">
           <mxGeometry width="57" height="16.363636363636363" as="geometry" />
@@ -217,6 +217,12 @@
           <mxGeometry x="-5" y="-10" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6dXVv3c4vtzoXwTVIitz-78" value="Analisa Organoleptik, Kimia, Mikrobiologi" style="whiteSpace=wrap;strokeWidth=1;" parent="22Ek3IktAt-tEacaqxxI-105" vertex="1">
+          <mxGeometry x="5" y="30" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="22Ek3IktAt-tEacaqxxI-104" value="R&amp;amp;D" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="22Ek3IktAt-tEacaqxxI-88">
+          <mxGeometry x="320" y="270" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6dXVv3c4vtzoXwTVIitz-70" value="SOP, Spesifikasi Produk" style="whiteSpace=wrap;strokeWidth=1;" parent="22Ek3IktAt-tEacaqxxI-104" vertex="1">
           <mxGeometry x="5" y="30" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="22Ek3IktAt-tEacaqxxI-92" target="22Ek3IktAt-tEacaqxxI-87">
@@ -238,12 +244,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="22Ek3IktAt-tEacaqxxI-104" value="R&amp;amp;D" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="645" width="200" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="6dXVv3c4vtzoXwTVIitz-70" value="SOP, Spesifikasi Produk" style="whiteSpace=wrap;strokeWidth=1;" parent="22Ek3IktAt-tEacaqxxI-104" vertex="1">
-          <mxGeometry x="5" y="30" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-116" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="22Ek3IktAt-tEacaqxxI-87" target="6dXVv3c4vtzoXwTVIitz-74">
           <mxGeometry relative="1" as="geometry">
