@@ -133,14 +133,14 @@
             <mxPoint x="810" y="150" as="sourcePoint" />
             <mxPoint x="910" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1086" />
-              <mxPoint x="500" />
+              <mxPoint x="1086" y="10" />
+              <mxPoint x="500" y="10" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-69" value="Tidak OK" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="22Ek3IktAt-tEacaqxxI-68">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="193" as="offset" />
+            <mxPoint x="263" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="22Ek3IktAt-tEacaqxxI-34" target="7P-PuD_ggh4ez_p3lZlP-11">
