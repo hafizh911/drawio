@@ -70,9 +70,6 @@
         <mxCell id="IkFLGEWr05f8KtHXAprC-22" value="Kemasan&#xa;Karton" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkFLGEWr05f8KtHXAprC-23" value="Finished Goods" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1140" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-60" value="PPIC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry width="200" height="1240" as="geometry" />
         </mxCell>
@@ -88,8 +85,11 @@
         <mxCell id="IkFLGEWr05f8KtHXAprC-64" value="QC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" width="200" height="1240" as="geometry" />
         </mxCell>
-        <mxCell id="IkFLGEWr05f8KtHXAprC-65" value="QC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkFLGEWr05f8KtHXAprC-65" value="Gudang Jadi" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" width="200" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-23" value="Finished Goods" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IkFLGEWr05f8KtHXAprC-65">
+          <mxGeometry x="40" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
