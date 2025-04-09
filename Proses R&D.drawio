@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="B2B" id="JEkLsybQMh7TkXwGEb7z">
-    <mxGraphModel dx="1162" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-43" value="&lt;ul&gt;&lt;li&gt;SOP&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="22Ek3IktAt-tEacaqxxI-8">
           <mxGeometry x="185" y="85.5" width="235" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="22Ek3IktAt-tEacaqxxI-26" value="&lt;ul&gt;&lt;li&gt;Perhitungan HPP&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="22Ek3IktAt-tEacaqxxI-8">
+          <mxGeometry x="-17" y="157" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-34" value="Manajemen&#xa;Approval" style="rhombus;whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="220" width="129" height="120" as="geometry" />
@@ -255,9 +258,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-30" y="377" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="22Ek3IktAt-tEacaqxxI-26" value="&lt;ul&gt;&lt;li&gt;Perhitungan HPP&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="704.43" y="-330.52" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
