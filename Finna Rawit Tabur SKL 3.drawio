@@ -8,34 +8,34 @@
           <mxGeometry x="40" y="25" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-2" value="Planning Produksi" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="25" width="120" height="90" as="geometry" />
+          <mxGeometry x="440" y="25" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-3" value="Permintaan Bahan Baku &amp; Kemasan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-4" value="Bon Bahan&lt;div&gt;Baku &amp;amp;&lt;/div&gt;&lt;div&gt;Kemasan&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-5" value="Penyimpanan&lt;div&gt;Bahan Baku&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-6" value="Bahan Baku TW Bubuk" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-7" value="Penyimpan&lt;div&gt;Kerupuk&lt;/div&gt;&lt;div&gt;Pedas&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-8" value="Bahan Baku&lt;div&gt;Formula&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-9" value="Giling" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-10" value="Penimbangan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-11" value="Super Mixer" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-12" value="Penimbangan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
@@ -47,37 +47,40 @@
           <mxGeometry x="240" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-15" value="Vertikal&lt;div&gt;Blender&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="400" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-16" value="Pengecekan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-17" value="Pengecekan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-18" value="WIP" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-19" value="Filling&lt;div&gt;Sachet&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.plaque;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="970" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-20" value="Reject Langsung Repro" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-21" value="Pengecekan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-22" value="Kemasan&#xa;Karton" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-23" value="Finished Goods" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-60" value="PPIC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry width="200" height="1240" as="geometry" />
         </mxCell>
-        <mxCell id="IkFLGEWr05f8KtHXAprC-61" value="PPIC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkFLGEWr05f8KtHXAprC-61" value="Gudang RM &amp;amp; PM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" width="200" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-62" value="Produksi" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" width="200" height="1240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
