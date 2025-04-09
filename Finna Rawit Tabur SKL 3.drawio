@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="bt4QDhNX_TtffqYrr3hO">
-    <mxGraphModel dx="2034" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-63" value="R&amp;amp;D" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" width="200" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-64" value="QC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" width="200" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-65" value="QC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" width="200" height="1240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
