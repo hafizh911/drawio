@@ -97,7 +97,7 @@
           <mxGeometry x="185" y="85.5" width="235" height="53" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-26" value="&lt;ul&gt;&lt;li&gt;Perhitungan HPP&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="22Ek3IktAt-tEacaqxxI-8">
-          <mxGeometry x="-17" y="157" width="180" height="30" as="geometry" />
+          <mxGeometry x="-17" y="170" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-34" value="Manajemen&#xa;Approval" style="rhombus;whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="220" width="129" height="120" as="geometry" />
