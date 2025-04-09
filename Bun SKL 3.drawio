@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="eMKyfUuXtEWbFmcIX-S9">
-    <mxGraphModel dx="2152" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1780" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,47 +46,47 @@
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-14" value="Pemotongan dan Pembulatan (DDR)" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V4qpen_-_6Bv_9mfWIA8-15" value="Peletakan &amp; Penekanan Panning Dough" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="464" y="1132" width="120" height="60" as="geometry" />
+        <mxCell id="V4qpen_-_6Bv_9mfWIA8-15" value="Peletakan &amp; Penekanan&#xa;(Panning Dough)" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-16" value="Spray Air &amp; Penaburan Wijen, Oat / Spray Glaze" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="323" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V4qpen_-_6Bv_9mfWIA8-17" value="Fermentasi Proofing" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="633" y="1272" width="120" height="60" as="geometry" />
+        <mxCell id="V4qpen_-_6Bv_9mfWIA8-17" value="Fermentasi (Proofing)" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-18" value="Pemanggangan Baking" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="626" y="1388" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-19" value="Pendinginan Cooling" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="633" y="1492" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1214" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-20" value="Pemotongan Slicing" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="1596" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1318" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-21" value="Sortir Produk Jadi" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="644" y="1700" width="120" height="120" as="geometry" />
+          <mxGeometry x="120" y="1420" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-22" value="Pengemasan dan Pelabelan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="1954" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-23" value="Reject Jual Karyawan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="769" y="1954" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-24" value="Pendeteksian&#xa;Logam Metal Detector" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="454" y="2058" width="150" height="150" as="geometry" />
+          <mxGeometry x="105" y="1670" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-25" value="Produk Jadi Finishing Goods" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="322" y="2409" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V4qpen_-_6Bv_9mfWIA8-26" value="Reject Dimusnahkan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="631" y="2409" width="120" height="60" as="geometry" />
+        <mxCell id="V4qpen_-_6Bv_9mfWIA8-26" value="Reject (Dimusnahkan)" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-27" value="Kemasan Karton dan Tray" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="2513" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-28" value="Distribusi" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="2513" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V4qpen_-_6Bv_9mfWIA8-60" value="Kartu Stok" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
