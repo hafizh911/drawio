@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="B2B" id="JEkLsybQMh7TkXwGEb7z">
-    <mxGraphModel dx="1479" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,7 +255,7 @@
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-117" value="Tidak OK" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=13;" connectable="0" vertex="1" parent="22Ek3IktAt-tEacaqxxI-116">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="372" as="offset" />
+            <mxPoint y="367" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
