@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="bt4QDhNX_TtffqYrr3hO">
-    <mxGraphModel dx="775" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1415" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,14 +40,32 @@
         <mxCell id="IkFLGEWr05f8KtHXAprC-5" value="Penyimpanan&lt;div&gt;Bahan Baku&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-6" target="IkFLGEWr05f8KtHXAprC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-6" value="Bahan Baku TW Bubuk" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-7" target="IkFLGEWr05f8KtHXAprC-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-7" value="Penyimpan&lt;div&gt;Kerupuk&lt;/div&gt;&lt;div&gt;Pedas&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-8" target="IkFLGEWr05f8KtHXAprC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-8" value="Bahan Baku&lt;div&gt;Formula&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-9" target="IkFLGEWr05f8KtHXAprC-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="520" />
+              <mxPoint x="220" y="520" />
+              <mxPoint x="220" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-9" value="Giling" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
@@ -55,14 +73,26 @@
         <mxCell id="IkFLGEWr05f8KtHXAprC-10" value="Penimbangan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-11" target="IkFLGEWr05f8KtHXAprC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-11" target="IkFLGEWr05f8KtHXAprC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-11" value="Super Mixer" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="440" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-12" value="Penimbangan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-13" target="IkFLGEWr05f8KtHXAprC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-13" value="Bahan Baku&lt;div&gt;Kerupuk Pedas&lt;/div&gt;&lt;div&gt;&amp;amp; TW Kering&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-14" target="IkFLGEWr05f8KtHXAprC-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-14" value="Penimbangan" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="740" width="120" height="60" as="geometry" />
@@ -113,6 +143,15 @@
           <mxGeometry x="40" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkFLGEWr05f8KtHXAprC-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-1" target="IkFLGEWr05f8KtHXAprC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-9" target="IkFLGEWr05f8KtHXAprC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-12" target="IkFLGEWr05f8KtHXAprC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IkFLGEWr05f8KtHXAprC-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IkFLGEWr05f8KtHXAprC-10" target="IkFLGEWr05f8KtHXAprC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
