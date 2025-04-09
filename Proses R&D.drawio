@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="B2B" id="JEkLsybQMh7TkXwGEb7z">
-    <mxGraphModel dx="2958" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,12 @@
         <mxCell id="6dXVv3c4vtzoXwTVIitz-65" value="Form Permintaan Sampel" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="22Ek3IktAt-tEacaqxxI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dXVv3c4vtzoXwTVIitz-66" target="TRk_BBOaTZ7uG1GUnGQx-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="22Ek3IktAt-tEacaqxxI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dXVv3c4vtzoXwTVIitz-66" target="TRk_BBOaTZ7uG1GUnGQx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="671" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6dXVv3c4vtzoXwTVIitz-66" value="Sampel Produk, Ingredient List, Spesifikasi" style="shape=parallelogram;whiteSpace=wrap;strokeWidth=1;;perimeter=parallelogramPerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="601" y="150" width="140" height="80" as="geometry" />
@@ -53,19 +57,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TRk_BBOaTZ7uG1GUnGQx-3" value="Panel Test" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="180" width="169" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="22Ek3IktAt-tEacaqxxI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TRk_BBOaTZ7uG1GUnGQx-3" source="TRk_BBOaTZ7uG1GUnGQx-4" target="TRk_BBOaTZ7uG1GUnGQx-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="741" y="220" width="244.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TRk_BBOaTZ7uG1GUnGQx-4" value="Kantor / Marketing / Manajemen" style="rounded=0;whiteSpace=wrap;html=1;" parent="TRk_BBOaTZ7uG1GUnGQx-3" vertex="1">
-          <mxGeometry x="39" y="100" width="91" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="22Ek3IktAt-tEacaqxxI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TRk_BBOaTZ7uG1GUnGQx-3" source="TRk_BBOaTZ7uG1GUnGQx-5" target="TRk_BBOaTZ7uG1GUnGQx-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="130" y="30" width="91" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TRk_BBOaTZ7uG1GUnGQx-5" value="R&amp;amp;D" style="rounded=0;whiteSpace=wrap;html=1;" parent="TRk_BBOaTZ7uG1GUnGQx-3" vertex="1">
-          <mxGeometry x="39" y="40" width="91" height="40" as="geometry" />
+          <mxGeometry x="19" y="50" width="91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="22Ek3IktAt-tEacaqxxI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="22Ek3IktAt-tEacaqxxI-8" target="6dXVv3c4vtzoXwTVIitz-73">
           <mxGeometry relative="1" as="geometry">
