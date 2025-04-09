@@ -248,6 +248,9 @@
         <mxCell id="frWIrJoRdRerQJBQV_GG-44" value="Planning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="1090" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="frWIrJoRdRerQJBQV_GG-45" value="Order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="845" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
